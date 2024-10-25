@@ -1,0 +1,40 @@
+h1 {
+  margin: 0px;
+  padding: 20px 0px 10px 20px;
+  text-align:center;
+  font-weight: normal;
+  font-size: 3em;
+}
+section.feedback p {
+  margin: 0px;
+  padding: 20px 0px 10px 20px;
+}
+dl {
+  width: 40%;
+  margin: 0 0 0 4%;
+  float: right;
+}
+dd {
+  margin-left: 0px;
+  margin-bottom: 10px;
+  font-size: 1.3em;
+}
+dt {
+  color: hsla(59, 87%, 85%, 0.986);
+  font-weight: bold;
+  font-size: 1.3em;
+}
+img{
+  float: right;
+}
+section#reviews1 {
+  background-color: rgb(143, 125, 21);
+  color: rgb(184, 247, 236);
+}
+section#reviews2 {
+  background-color: rgb(90, 84, 5);
+  color: rgb(242, 248, 247);
+}
+section {
+  clear: right;
+}
